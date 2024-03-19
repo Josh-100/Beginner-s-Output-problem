@@ -1,4 +1,4 @@
-# Beginner-s-Output-problem
+#Joshua Chen's Beginner-s-Output-problem
 Create a Mad-Lib:
 
 What are Mad-Libs?
