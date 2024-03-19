@@ -1,0 +1,9 @@
+#Variables
+name = input("A random name: ")
+animal = input("An animal: ")
+number = input("A random number: ")
+noun = input("A noun: ")
+verb = input("A 'hostile' verb: ")
+
+#Madlib
+print("On a beautiful day, you were on a trail deep into the forest. There, you met a " + animal + ". " + "The " + animal + " introduced himself as " + name + ". Before you could greet your new friend, " + name + " - " + name + " whipped out a " + noun + " and robbed the " + str(number) + " dollars you had in your wallet. So, with vengeance in your heart, you promise yourself that you're going to " + verb + " this forest and eat " + name + "'s family." )

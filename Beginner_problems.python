@@ -1,0 +1,11 @@
+#Convert Minutes into Seconds
+minutes = input("Minutes you want to convert to seconds: ")
+print("Your answer is: " + str(int(minutes)*60) + " seconds")
+
+#Jane's birthday cards
+cruellaBrithdayCards = input("How many birthday cards did Cruella get?: ")
+print("TRASH! Jane is going to get at least " + str(int(cruellaBrithdayCards)*2) + "!!!")
+
+#Age to days
+ageInYears = input("How old are you?: ")
+print("Well, fun fact: You're about " + str(int(ageInYears)*365.25) + " days old!") #I used 365.25 days
